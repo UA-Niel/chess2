@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+/home/niel/Downloads/schaken2/schaken/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/niel/Downloads/schaken2/schaken/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/niel/Downloads/schaken2/schaken/cmake-build-debug/CMakeFiles/schaken.dir
+/home/niel/Downloads/schaken2/schaken/cmake-build-debug/CMakeFiles/schaken_autogen.dir
+=======
+/home/niel/Downloads/schaken/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/niel/Downloads/schaken/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/niel/Downloads/schaken/cmake-build-debug/CMakeFiles/schaken.dir
+/home/niel/Downloads/schaken/cmake-build-debug/CMakeFiles/schaken_autogen.dir
+>>>>>>> 31b431b96f730842f9926097b9e81e48624ed8cc
